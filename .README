@@ -1,0 +1,5 @@
+##Schedule scraper server
+
+This server receives scraped webpage data, sent by a Chrome extension in JSON format.  
+Ultimately it will send a Google Calendar invite to an email recipient that contains
+my work schedule for a specified date range.  It is deployed with Google App Engine (Ubuntu-based cloud server).
